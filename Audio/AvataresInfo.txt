@@ -3,10 +3,12 @@ avtr_43e96e91-42cd-4e5c-87e8-8de8c633df1c | Rindo Dance V13
 avtr_bbe81996-f819-4c38-891e-01d93d3c7dec | Rindo Dance V12
 avtr_15220207-3f6d-481d-817a-43b5c022a090 | Rindo Dance V11 Cyber
 avtr_22a85841-9f41-4fa8-83cb-bea31fede274 | Rindo Dance V10
+avtr_9d025202-26c8-49a7-8d76-e8d82405c4b1 | Rindo Blahaj
 avtr_6c2b3070-3300-4b77-80c7-64fe57afd553 | Rindo Dance V9
 avtr_840ed29c-abfc-4720-b5a8-9db017b584fe | Rindo Dance V8
 avtr_c9789dd6-d4ae-45e9-b50f-aa97643150a0 | Rindo Dance V7
 avtr_2b51efc6-f44b-41b8-8e39-a28cb85fd1d7 | Rindo Dance V6
+avtr_353abd34-ab24-41b6-a03e-08fdd2a3d31a | Mrmisterio400 Rindo Dance
 avtr_b15f792b-85d3-404d-885e-87f2e89bbffd | Mrselekrindo
 avtr_1ae16a4b-6bde-4963-88e9-129ef6e7b5bf | MrSelerindo
 avtr_b8b55515-0d48-486e-8348-ab0febf3f151 | MrSelestia ani
@@ -29,4 +31,4 @@ avtr_e6aaa0ba-8298-49db-ba60-66c1d9df5201 | Mrmisterio400 Selestia Dance V2
 avtr_ac4257d7-d258-47cc-9773-057d56cdf808 | Mrmisterio400 Kikyo Dance V1
 avtr_845ffae9-5e67-48e4-9697-199ca3214184 | Mrmisterio400 Moe Dance V2
 avtr_8145bcb0-f9d3-4e9f-baee-96d61951e5a8 | Mrmisterio400 Moe Dance
-avtr_353abd34-ab24-41b6-a03e-08fdd2a3d31a | Mrmisterio400 Rindo Dance
+avtr_3f81fa04-5a0d-4290-a389-e559ff213950 | MrMisterio400 Karin
