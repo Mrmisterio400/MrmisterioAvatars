@@ -1,3 +1,4 @@
+avtr_c94c795a-bd53-4fd8-8081-5173866d8430 | Rindo Dance V24 ｜ Akari
 avtr_ef5c8685-6881-4c7d-a9c3-d92c4ff250d5 | Rindo Dance V16
 avtr_d3a00c1c-f4b9-4346-a8c2-a5fd79962e9f | Rindo Dance v23 ｜ Leley
 avtr_d1ae90c8-ead9-4e11-990e-743ab70eda36 | Rindo Goth
@@ -13,6 +14,7 @@ avtr_43e96e91-42cd-4e5c-87e8-8de8c633df1c | Rindo Dance V13
 avtr_bbe81996-f819-4c38-891e-01d93d3c7dec | Rindo Dance V12
 avtr_15220207-3f6d-481d-817a-43b5c022a090 | Rindo Dance V11 Cyber
 avtr_22a85841-9f41-4fa8-83cb-bea31fede274 | Rindo Dance V10
+avtr_313e69d0-497a-47d3-a51c-37e612f61868 | Rindo Demon
 avtr_9d025202-26c8-49a7-8d76-e8d82405c4b1 | Rindo Blahaj
 avtr_6c2b3070-3300-4b77-80c7-64fe57afd553 | Rindo Dance V9
 avtr_840ed29c-abfc-4720-b5a8-9db017b584fe | Rindo Dance V8
